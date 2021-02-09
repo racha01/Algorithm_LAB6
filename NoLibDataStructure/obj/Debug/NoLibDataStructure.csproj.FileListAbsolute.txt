@@ -1,0 +1,6 @@
+C:\Users\Rachanon\source\repos\ArrayStackTest\NoLibDataStructure\bin\Debug\NoLibDataStructure.exe.config
+C:\Users\Rachanon\source\repos\ArrayStackTest\NoLibDataStructure\bin\Debug\NoLibDataStructure.exe
+C:\Users\Rachanon\source\repos\ArrayStackTest\NoLibDataStructure\bin\Debug\NoLibDataStructure.pdb
+C:\Users\Rachanon\source\repos\ArrayStackTest\NoLibDataStructure\obj\Debug\NoLibDataStructure.csproj.CoreCompileInputs.cache
+C:\Users\Rachanon\source\repos\ArrayStackTest\NoLibDataStructure\obj\Debug\NoLibDataStructure.exe
+C:\Users\Rachanon\source\repos\ArrayStackTest\NoLibDataStructure\obj\Debug\NoLibDataStructure.pdb

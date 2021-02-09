@@ -1,0 +1,10 @@
+C:\Users\Rachanon\source\repos\ArrayStackTest\ReverseString\bin\Debug\ReverseString.exe.config
+C:\Users\Rachanon\source\repos\ArrayStackTest\ReverseString\bin\Debug\ReverseString.exe
+C:\Users\Rachanon\source\repos\ArrayStackTest\ReverseString\bin\Debug\ReverseString.pdb
+C:\Users\Rachanon\source\repos\ArrayStackTest\ReverseString\obj\Debug\ReverseString.csprojAssemblyReference.cache
+C:\Users\Rachanon\source\repos\ArrayStackTest\ReverseString\obj\Debug\ReverseString.Form1.resources
+C:\Users\Rachanon\source\repos\ArrayStackTest\ReverseString\obj\Debug\ReverseString.Properties.Resources.resources
+C:\Users\Rachanon\source\repos\ArrayStackTest\ReverseString\obj\Debug\ReverseString.csproj.GenerateResource.cache
+C:\Users\Rachanon\source\repos\ArrayStackTest\ReverseString\obj\Debug\ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\Rachanon\source\repos\ArrayStackTest\ReverseString\obj\Debug\ReverseString.exe
+C:\Users\Rachanon\source\repos\ArrayStackTest\ReverseString\obj\Debug\ReverseString.pdb

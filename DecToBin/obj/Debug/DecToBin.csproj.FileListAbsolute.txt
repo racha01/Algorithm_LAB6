@@ -1,0 +1,7 @@
+C:\Users\Rachanon\source\repos\ArrayStackTest\DecToBin\bin\Debug\DecToBin.exe.config
+C:\Users\Rachanon\source\repos\ArrayStackTest\DecToBin\bin\Debug\DecToBin.exe
+C:\Users\Rachanon\source\repos\ArrayStackTest\DecToBin\bin\Debug\DecToBin.pdb
+C:\Users\Rachanon\source\repos\ArrayStackTest\DecToBin\obj\Debug\DecToBin.csprojAssemblyReference.cache
+C:\Users\Rachanon\source\repos\ArrayStackTest\DecToBin\obj\Debug\DecToBin.csproj.CoreCompileInputs.cache
+C:\Users\Rachanon\source\repos\ArrayStackTest\DecToBin\obj\Debug\DecToBin.exe
+C:\Users\Rachanon\source\repos\ArrayStackTest\DecToBin\obj\Debug\DecToBin.pdb
